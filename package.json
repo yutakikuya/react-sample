@@ -32,14 +32,6 @@
     "start": "webpack-dev-server --content-base dist/",
     "esdoc": "esdoc -c esdoc.json"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tetsuya-zama/kyo-do.co-ui.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tetsuya-zama/kyo-do.co-ui/issues"
-  },
-  "homepage": "https://github.com/tetsuya-zama/kyo-do.co-ui#readme"
+  "license": "ISC"
 }
